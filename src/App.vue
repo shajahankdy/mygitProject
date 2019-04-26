@@ -1,9 +1,9 @@
 <template>
   <div id="app">
 
-  <user_dls></user_dls>
-  <product_dls></product_dls>
-  <submit></submit>
+       <user_dls></user_dls>
+       <product_dls></product_dls>
+       <submit></submit>
 
   </div>
 </template>
